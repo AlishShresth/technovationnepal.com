@@ -1,0 +1,1 @@
+import{r as s,j as e}from"./index-BuBebdqr.js";const r=({setCurrentPage:t})=>(s.useEffect(()=>{t("NotFound")},[t]),e.jsxs("div",{className:"h-[50vh] flex justify-center items-center",children:[e.jsx("h1",{className:"text-center text-2xl font-bold",children:"Page Not Found!"}),";"]}));export{r as default};
